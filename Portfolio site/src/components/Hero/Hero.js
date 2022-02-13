@@ -12,9 +12,9 @@ const Hero = () => (
        Welcome to my portfolio 
      </SectionTitle>
      <SectionText>
-       I'm a full stack Python developer ready to help you design a better web.
+       I'm a full stack  developer ready to help you design a better web.
      </SectionText>
-     <Button onClick={() => window.location = 'www.henrywillisjr.com'}>Learn More</Button>
+     <Button onClick={() => window.location = 'https://github.com/mrwillis32/mrwillis32.github.io.git'}>Learn More</Button>
    </LeftSection>
  </Section>
 );

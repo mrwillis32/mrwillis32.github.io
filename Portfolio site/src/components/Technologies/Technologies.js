@@ -9,7 +9,7 @@ const Technologies = () =>  (
    <br />
    <SectionTitle>Technologies</SectionTitle>
    <SectionText>
-     I'm a full stack python developer that has worked with a range of technologies in the web development world.
+     I'm a full stack  developer that has worked with a range of technologies in the web development world.
    </SectionText>
    <List>
      <ListItem>
