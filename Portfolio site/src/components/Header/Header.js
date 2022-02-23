@@ -10,7 +10,7 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: "flex", alignItems: "center", color: 'white', marginBottom: '20px' }}>
-          <DiCssdeck size="3rem"/> <Span>Portfolio</Span>
+          <DiCssdeck size="3rem"/> <Span>HJW</Span>
         </a>
       </Link>
     </Div1>
@@ -35,7 +35,7 @@ const Header = () =>  (
       <SocialIcons href="https://github.com/mrwillis32/mrwillis32.github.io.git">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="www.linkedin.com/in/henrywillisjr">
+      <SocialIcons href="https://www.linkedin.com/in/henrywillisjr/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
     </Div3>
@@ -43,3 +43,4 @@ const Header = () =>  (
 ); 
 
 export default Header;
+

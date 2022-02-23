@@ -17,9 +17,17 @@ export const projects = [
   },
   {
     title: 'Calculator App',
-    description: "",
+    description: "Using HTML, CSS, and JavaScript my calculator app allows users to add, subtract, multiply, divide and do precentages.",
       image: '/images/calc.jpeg',
       tags: ['HTML', 'CSS', 'JavaScript'],
+    visit: 'https://github.com/mrwillis32/mrwillis32.github.io.git',
+    id: 2,
+  },
+  {
+    title: 'Django Blog',
+    description: "Using python and django I built a blog app that allows users to create new post, cylce through all the featured articles and delete posts.",
+      image: '/images/willis_blog.png',
+      tags: ['HTML', 'CSS', 'PYTHON', 'DJANGO'],
     visit: 'https://github.com/mrwillis32/mrwillis32.github.io.git',
     id: 2,
   },
